@@ -18,7 +18,6 @@ public class Palindrome {
 	
 	public boolean isPalindrome(String s) {
 		String ss = s.toLowerCase().replaceAll("[\\p{Punct}\\p{Space}]+", "");
-//		StringBuffer rs = new StringBuffer(ss).reverse();
 		int j = ss.length()-1;
         for(int i=0; i<ss.length(); i++,j--) {
         	char c = ss.charAt(i);
