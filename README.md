@@ -79,7 +79,7 @@ LeetCode Java Solutions
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| [Java](src/com/leetcode/.java)|2012/4/23|Hard|
 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](src/com/leetcode/.java)|2012/4/22|Hard|
 |[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [Java](src/com/leetcode/.java)|2012/4/22|Medium|
-|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](src/com/leetcode/.java)|2012/4/22|Easy|
+|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](src/com/leetcode/RemoveDuplicates.java)|2012/4/22|Easy|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Java](src/com/leetcode/.java)|2012/4/19|Medium|
 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Java](src/com/leetcode/.java)|2012/4/19|Medium|
 |[Word Search](https://oj.leetcode.com/problems/word-search/)| [Java](src/com/leetcode/.java)|2012/4/18|Medium|
@@ -154,7 +154,7 @@ LeetCode Java Solutions
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [Java](src/com/leetcode/.java)|2012/1/8|Hard|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](src/com/leetcode/Palindrome.java)|2012/1/4|Easy|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](src/com/leetcode/StringToInteger.java)|2011/12/26|Easy|
-|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](src/com/leetcode/.java)|2011/12/25|Easy|
+|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](src/com/leetcode/ReverseInteger.java)|2011/12/25|Easy|
 |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [Java](src/com/leetcode/.java)|2011/12/5|Easy|
 |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](src/com/leetcode/.java)|2011/11/11|Medium|
 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](src/com/leetcode/.java)|2011/11/1|Medium|
